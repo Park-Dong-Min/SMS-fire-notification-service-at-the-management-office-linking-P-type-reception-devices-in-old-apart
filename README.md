@@ -1,1 +1,1 @@
-# SMS-fire-notification-service-at-the-management-office-linking-P-type-reception-devices-in-old-apart
+# 노후 아파트의 P형 수신 장치를 연동하는 관리사무소 SMS 화재 알림 서비스
